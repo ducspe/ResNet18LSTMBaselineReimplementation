@@ -1,0 +1,5 @@
+venv/
+saved_models/
+logs_folder/
+__pycache__/
+.idea/
